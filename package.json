@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Daniel Soto Fuya",
+  "description":"this is a project of backend and development apis in freecodecamp ",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
